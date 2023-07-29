@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": null, "name": "NPR" },
+      "author": "",
+      "title": "Elizabeth Holmes Plans To Accuse Ex-Boyfriend Of Emotional And Sexual Abuse At Trial - NPR",
+      "description": "Newly released documents reveal how the founder of biomedical startup Theranos intends on defending herself at a federal fraud trial starting next week.",
+      "url": "https://www.npr.org/2021/08/28/1031961327/elizabeth-holmes-theranos-trial-boyfriend-balwani-emotional-sexual-abuse",
+      "urlToImage": "https://media.npr.org/assets/img/2021/08/28/ap18073599399878_wide-701e5bde7ef1fdade9c6c7433ffe4ca811e8e151.jpg?s=1400",
+      "publishedAt": "2021-08-28T11:53:31Z",
+      "content": "Elizabeth Holmes, founder and CEO of Theranos, speaks at the Fortune Global Forum in San Francisco.\r\nJeff Chiu/AP\r\nElizabeth Holmes, the founder of blood-testing startup Theranos, plans to defend her… [+3985 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Emma Colton",
+      "title": "Furious crowd forces Justin Trudeau to cancel campaign event: 'Need freedom' - Fox News",
+      "description": "A campaign event for Canadian Prime Minister Justin Trudeau was canceled over safety concerns after angry coronavirus protesters rallied against the liberal leader.",
+      "url": "https://www.foxnews.com/world/trudeau-campaign-event-canceled-protesters-coronavirus",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21019635452381.jpg",
+      "publishedAt": "2021-08-28T11:08:30Z",
+      "content": "A campaign event for Canadian Prime Minister Justin Trudeau was canceled over safety concerns after angry coronavirus protesters rallied against the liberal leader. \r\n\"I need freedom,\" read one sign\r… [+2792 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Alaa Elassar, CNN",
+      "title": "What you need to know about this weekend's March On for Voting Rights - CNN",
+      "description": "People across the United States are marching on Saturday to demand that Congress pass sweeping voting rights legislation and that state lawmakers halt efforts to enact bills that restrict voting access.",
+      "url": "https://www.cnn.com/2021/08/28/us/march-on-for-voting-rights-what-to-know/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210827134505-01-march-on-washington-2020-super-tease.jpg",
+      "publishedAt": "2021-08-28T11:03:00Z",
+      "content": "(CNN)People across the United States are marching on Saturday to demand that Congress pass sweeping voting rights legislation and that state lawmakers halt efforts to enact bills that restrict voting… [+5403 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Laura Smith-Spark, Jamie Crawford and Oren Liebermann, CNN",
+      "title": "US carries out Afghanistan airstrike as Kabul evacuation effort enters final stretch - CNN",
+      "description": "The US military carried out an airstrike against what it said was an ISIS-K planner in Afghanistan's eastern Nangarhar province, amid warnings of possible further terror attacks targeting the last-ditch US evacuation effort from Kabul.",
+      "url": "https://www.cnn.com/2021/08/28/asia/afghanistan-us-airstrike-evacuation-mission-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210827083539-03-afghanistan-0827-super-tease.jpg",
+      "publishedAt": "2021-08-28T10:35:00Z",
+      "content": "(CNN)The US military carried out an airstrike against what it said was an ISIS-K planner in Afghanistan's eastern Nangarhar province, amid warnings of possible further terror attacks targeting the la… [+5943 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Weather Channel" },
+      "author": null,
+      "title": "Hurricane Ida Expected to Rapidly Intensify Ahead of Louisiana Landfall | The Weather Channel - Articles from The Weather Channel | weather.com - The Weather Channel",
+      "description": "Hurricane and storm surge warnings have been issued for portions of the Gulf Coast. Here's the latest forecast briefing. - Articles from The Weather Channel | weather.com",
+      "url": "https://weather.com/storms/hurricane/news/2021-08-28-hurricane-ida-forecast-louisiana-mississippi-alabama-gulf-coast",
+      "urlToImage": "https://s.w-x.co/ida-satam.jpeg",
+      "publishedAt": "2021-08-28T10:07:30Z",
+      "content": "At a Glance\r\n<ul><li>Hurricane Ida is centered in the Gulf of Mexico.</li><li>Ida is forecast to grow into a major hurricane as it tracks toward the northern Gulf Coast.</li><li>Interests along the n… [+7094 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Hannah Beech",
+      "title": "Myanmar’s Monks, Leaders of Past Protests, Are Divided Over the Coup - The New York Times",
+      "description": "Some senior members of the Buddhist clergy have given their blessing to the generals in power. But hundreds of lower-ranking monks have been jailed for protesting.",
+      "url": "https://www.nytimes.com/2021/08/28/world/asia/myanmar-monks-coup.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/08/26/world/00myanmar-buddhism/00myanmar-buddhism-facebookJumbo.jpg",
+      "publishedAt": "2021-08-28T09:00:20Z",
+      "content": "When General Min Aung Hlaing went to Moscow on arms-buying trips in 2018 and 2019, Sitagu Sayadaw accompanied him. When the general, now Myanmars self-appointed prime minister, returned to Russia in … [+1308 chars]"
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": "By  SETH J. FRANTZMAN",
+      "title": "Baghdad conference seen as regional turning point - The Jerusalem Post",
+      "description": "Baghdad will host the Iraq Neighborhood Summit, with wide international and regional participation, and great hopes for the return of Iraq's historical role in the region.",
+      "url": "https://www.jpost.com/middle-east/baghdad-conference-seen-as-regional-turning-point-677951",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/478459",
+      "publishedAt": "2021-08-28T08:30:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Aya Elamroussi, CNN",
+      "title": "'There is no room to put these bodies,' Alabama health official says as Covid-19 deaths climb - CNN",
+      "description": "The rate of Covid-19 deaths has increased in 42 US states in the last week, according to new data, as the spread of the more virulent coronavirus Delta variant has upended a spring of reopenings and led to increasing concern headed into autumn.",
+      "url": "https://www.cnn.com/2021/08/28/health/us-coronavirus-saturday/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210828035708-01-alabama-hospitals-coronavirus-super-tease.jpg",
+      "publishedAt": "2021-08-28T08:01:00Z",
+      "content": "(CNN)The rate of Covid-19 deaths has increased in 42 US states in the last week, according to new data, as the spread of the more virulent coronavirus Delta variant has upended a spring of reopenings… [+6579 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "NASA and SpaceX Launch to the International Space Station - NASA",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9OUIzbFJ2ay16VmPSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-08-28T07:33:53Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "MMA Fighting" },
+      "author": "MMA Fighting Newswire",
+      "title": "Jake Paul vs. Tyron Woodley weigh-in video - MMA Fighting",
+      "description": "The Jake Paul vs. Tyron Woodley weigh-in video features all the fighters stepping on the scale Saturday in Cleveland.",
+      "url": "https://www.mmafighting.com/2021/8/28/22644991/jake-paul-vs-tyron-woodley-weigh-in-video",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/O966MINLRtN8WF-ieCeAHU2L550=/0x0:5966x3124/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22810036/1336534445.jpg",
+      "publishedAt": "2021-08-28T07:30:00Z",
+      "content": "At the Jake Paul vs. Tyron Woodley weigh-ins Saturday, Jake Paul and Tyron Woodley will step on the scale and MMA Fighting will have the live video.\r\nJake Paul and Tyron Woodley will have to hit the … [+675 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NBC Bay Area" },
+      "author": "NBC Bay Area staff",
+      "title": "26 COVID-19 Cases Linked to Unvaccinated Marin County Elementary School Teacher: CDC - NBC Bay Area",
+      "description": "A COVID-19 outbreak at a Marin County elementary school is a case study in how highly contagious the delta variant is.",
+      "url": "https://www.nbcbayarea.com/news/local/north-bay/26-covid-19-cases-linked-to-unvaccinated-marin-county-elementary-school-teacher-cdc/2642763/",
+      "urlToImage": "https://media.nbcbayarea.com/2019/09/Classroom-Generic-Getty.jpg?quality=85&strip=all&fit=1200%2C675",
+      "publishedAt": "2021-08-28T06:42:40Z",
+      "content": "A COVID-19 outbreak at a Marin County elementary school is a case study in how highly contagious the delta variant is.\r\nThe Centers for Disease Control and Prevention reported an unvaccinated teacher… [+1058 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters",
+      "title": "Two die in Japan after shots from suspended Moderna vaccines - Japan govt - Reuters",
+      "description": "Two people died after receiving Moderna <a href=\"https://www.reuters.com/companies/MRNA.O\" target=\"_blank\">(MRNA.O)</a> COVID-19 vaccine shots that were among lots later suspended following the discovery of contaminants, Japan's health ministry said on Saturd…",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/two-die-japan-after-shots-suspended-moderna-vaccines-japan-govt-2021-08-28/",
+      "urlToImage": "https://www.reuters.com/resizer/yHBbSXsTVYQw2kwhNM4BOBfIZWM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Z5L7EJOVJJIE3NNOVL4EFMYDKU.jpg",
+      "publishedAt": "2021-08-28T06:21:00Z",
+      "content": "Vials with a sticker reading, \"COVID-19 / Coronavirus vaccine / Injection only\" and a medical syringe are seen in front of a displayed Moderna logo in this illustration taken October 31, 2020. REUTER… [+1104 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Samuel Chamberlain",
+      "title": "Marine Lt. Col. Stuart Scheller relieved of duty for calling out brass over Afghanistan - New York Post ",
+      "description": "Lt. Col. Stuart Scheller went viral Thursday after he posted a video to facebook, in which he ripped into military leadership following the devastating suicide bombing at Kabul airport.",
+      "url": "https://nypost.com/2021/08/28/marine-lt-col-stuart-scheller-relieved-of-duty-after-facebook-video-of-him-ripping-military-leaders-goes-viral/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/08/marine-relieved-of-duty-index.jpg?quality=90&strip=all&w=1024",
+      "publishedAt": "2021-08-28T05:48:00Z",
+      "content": "A Marine Corps battalion commander said he was relieved of his duties Friday after he posted a video demanding “accountability” from senior leaders for failures in Afghanistan.\r\nLt. Col. Stuart Schel… [+3547 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters",
+      "title": "Australia logs record COVID-19 cases, driven by New South Wales - Reuters",
+      "description": "Australia reported a record 1,126 coronavirus infectious on Saturday, the vast majority in New South Wales, the epicentre of the Delta-fuelled outbreak.",
+      "url": "https://www.reuters.com/world/asia-pacific/australias-victoria-reports-64-local-covid-19-cases-2021-08-27/",
+      "urlToImage": "https://www.reuters.com/resizer/t6vxb3xb7U7PnG2v_S0akL5FCWg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AE4ZHKFHQJLQZG2TJFWREUH2YE.jpg",
+      "publishedAt": "2021-08-28T05:16:00Z",
+      "content": "A lone passenger wearing a protective face mask walks from a deserted train platform at Flinders Street during morning commute hours on the first day of a lockdown as the state of Victoria looks to c… [+2648 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Jordan Williams",
+      "title": "People with delta variant twice as likely to be hospitalized: study - The Hill",
+      "description": "People who contract the delta variant of the coronavirus are twice as likely to be hospitalized as those who contract the original strain, according to a study published in The Lancet on Friday.",
+      "url": "https://thehill.com/policy/healthcare/569823-people-with-delta-variant-twice-as-likely-to-be-hospitalized-study",
+      "urlToImage": "https://thehill.com/sites/default/files/article_images/coronavirus-patient_hospital_delta_081121getty_delta.jpg",
+      "publishedAt": "2021-08-28T03:21:53Z",
+      "content": "People who contract the delta variant of the coronavirus are twice as likely to be hospitalized as those who contract the original strain, according to a study published in The Lancet on Friday. \r\nRe… [+1503 chars]"
+    },
+    {
+      "source": { "id": "nfl-news", "name": "NFL News" },
+      "author": null,
+      "title": "2021 NFL preseason, Week 3: What we learned from Friday's games - NFL.com",
+      "description": "NFL.com breaks down what you need to know from Week 3 of the 2021 NFL preseason.",
+      "url": "https://www.nfl.com/news/2021-nfl-preseason-week-3-what-we-learned-from-friday-s-games",
+      "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/zt2jldc6xq0knpceembh",
+      "publishedAt": "2021-08-28T02:44:00Z",
+      "content": "<ol><li>Colts cashing in. Excellent last season, the Colts' defense is going to get a boost up front with the addition of rookie first-rounder Kwity Paye. The 21st overall pick of the 2021 NFL Draft … [+1221 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Jessica Napoli",
+      "title": "Kanye West brings out Marilyn Manson, DaBaby at 'Donda' event, stirring controversy - Fox News",
+      "description": "A rep for the rapper confirmed Manson's voice will be featured on West's upcoming album.",
+      "url": "https://www.foxnews.com/entertainment/kanye-west-marilyn-manson-dababy-donda-event",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/kanye-manson.jpg",
+      "publishedAt": "2021-08-28T02:33:37Z",
+      "content": "Kanye West made another controversial move at his latest \"DONDA listening party\" at Chicagos Soldier Field.\r\nOn Thursday night, the rapper brought out Marilyn Manson, who has been accused of sexual a… [+2413 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Louis Casiano",
+      "title": "Los Angeles County DA Gascon hammered for not arguing against release of Robert Kennedy's assassin - Fox News",
+      "description": "District Attorneys in California are criticizing Los Angeles County's top prosecutor for not arguing for the continued imprisonment of the man granted parole Friday for the 1968 killing of Robert F. Kennedy.",
+      "url": "https://www.foxnews.com/us/los-angeles-gascon-robert-kennedy-assassin",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/split-gascon-sirhan-parole.jpg",
+      "publishedAt": "2021-08-28T02:15:44Z",
+      "content": "District Attorneys in California are criticizing Los Angeles County's top prosecutor for not arguing for the continued imprisonment of the man granted parole Friday for the 1968 killing of Robert F. … [+5300 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Los Angeles Times" },
+      "author": "Gregory Yee",
+      "title": "2 Riverside County Marines among those confirmed dead in Kabul airport attack - Los Angeles Times",
+      "description": "Two Marines from Riverside County are among those killed in a suicide bombing attack at Kabul airport, officials have confirmed.",
+      "url": "https://www.latimes.com/california/story/2021-08-27/2-riverside-county-marines-among-those-confirmed-dead-at-kabul-airport-attack",
+      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/f626a74/2147483647/strip/true/crop/3072x1613+0+291/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3e%2Fcb%2F27a7a6f3411f9bccbd8c57bf3e7f%2Fla-me-marines-killed-kabul.JPG",
+      "publishedAt": "2021-08-28T01:29:52Z",
+      "content": "Two Marines from Riverside County were among 13 U.S. service members killed in the suicide bombing attack at Hamid Karzai International Airport in Kabul, Afghanistan, officials confirmed Friday. \r\nLa… [+3262 chars]"
+    },
+    {
+      "source": { "id": null, "name": "cleveland.com" },
+      "author": "Chris Fedor, cleveland.com",
+      "title": "Cleveland Cavaliers take calculated risk with Larry Nance Jr.-Lauri Markkanen trade: Chris Fedor - cleveland.com",
+      "description": "But Markkanen, a former top-10 pick who looked like a budding star in his second season before seemingly falling out of favor, can raise Cleveland’s ceiling.",
+      "url": "https://www.cleveland.com/cavs/2021/08/cleveland-cavaliers-take-calculated-risk-with-larry-nance-jr-lauri-markkanen-trade-chris-fedor.html",
+      "urlToImage": "https://www.cleveland.com/resizer/Aj8BaDpNyrbP0AAZ0ntDlsnBOQg=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SFFLAP4DOJDJBLTITCOATHLKFQ.jpg",
+      "publishedAt": "2021-08-28T01:26:47Z",
+      "content": "CLEVELAND, Ohio -- The Cleveland Cavaliers didnt initially have restricted free agent Lauri Markkanen in their offseason sights.\r\nThey thought Chicago would re-sign him or hed get a lucrative offer s… [+8145 chars]"
+    }
+  ]
+}
